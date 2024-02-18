@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.notification-container {
+  display: flex;
+  margin-top: 30px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  justify-content: space-between;
+  outline-style: solid;
+  outline-width: 0.5px;
+  border-radius: 5px;
+  outline-color: #e5e5e5;
+  width: 450px;
+  height: 110px;
+}
+
+.icon2 {
+  margin-top: 30px;
+  font-size: 25px;
+  color: #e5e5e5;
+}
+.note-con1 {
+  display: flex;
+}
